@@ -1,6 +1,8 @@
 data/*old*
 .DS_Store
 *mine*
+prompt-engineering-batch.ipynb 
+# this was a failed attempt to batch
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
